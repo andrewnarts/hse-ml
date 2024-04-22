@@ -21,6 +21,8 @@
 | Номер дз | Дедлайн          | Ссылка                                                                                                     |
 | -------- | ---------------- | ---------------------------------------------------------------------------------------------------------- |
 | 1        | 24 февраля 23:59 | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw01_knn_linreg.ipynb |
+| 2        | 6 апреля 23:59   | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw02_logreg_svm_texts.ipynb |
+
 
 
 ## Формула оценивания
