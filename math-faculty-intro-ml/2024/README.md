@@ -18,12 +18,13 @@
 Если вы не сдаете домашнее задание по уважительной причине (есть подтверждающий документ), то вы можете написать своему семинаристу для принятия решения о переносе дедлайна.
 Решения, отправленные после дедлайна без уважительной причины, не принимаются и оцениваться не будут.
 
-| Номер дз | Дедлайн          | Ссылка                                                                                                     |
-| -------- | ---------------- | ---------------------------------------------------------------------------------------------------------- |
-| 1        | 24 февраля 23:59 | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw01_knn_linreg.ipynb |
-| 2        | 6 апреля 23:59   | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw02_logreg_svm_texts.ipynb |
-| 3        | 9 мая 23:59   | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw03_trees_rf.ipynb |
-| 4        | 18 мая 23:59   | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw04_boosting.ipynb |
+| Номер дз  | Дедлайн          | Ссылка                                                                                                     |
+| --------- | ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| 1         | 24 февраля 23:59 | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw01_knn_linreg.ipynb |
+| 2         | 6 апреля 23:59   | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw02_logreg_svm_texts.ipynb |
+| 3         | 9 мая 23:59      | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw03_trees_rf.ipynb |
+| 4         | 18 мая 23:59     | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw04_boosting.ipynb |
+| 5 (бонус) | 8 июня 23:59     | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2024/homeworks/hw05_clustering.ipynb |
 
 
 
