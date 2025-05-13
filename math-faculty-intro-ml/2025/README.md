@@ -22,7 +22,8 @@
 | --------- | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 1         | 04.03.2025 23:59 | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2025/homeworks/hw01_knn_linreg.ipynb       |
 | 2         | 23.03.2025 23:59 | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2025/homeworks/hw02_logreg_svm_texts.ipynb |
-| 2         | 11.05.2025 23:59 | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2025/homeworks/hw03_trees_rf%20.ipynb      |
+| 3         | 11.05.2025 23:59 | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2025/homeworks/hw03_trees_rf%20.ipynb      |
+| 4         | 19.05.2025 23:59 | https://github.com/andrewnarts/hse-ml/blob/main/math-faculty-intro-ml/2025/homeworks/hw04_boosting.ipynb         |
 
 
 ## Формула оценивания
